@@ -1,0 +1,9 @@
+{
+    "git.ignoreLimitWarning": true,
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/9fdc9a42-b49f-4e4e-b0a0-31c5e7f4a746/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/factApp-mlsa",
+    "appService.deploySubpath": "."
+}
